@@ -1,0 +1,1513 @@
+Results for aspect word 'plot'
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'plot':
+	 'great'
+
+
+Sentence:
+	I like the fact that while the characters are caught up in this life, they don't make it look so glorious that young kids would be attracted to this life while viewing the movie
+Opinion of 'plot':
+	 'not-make', 'so-glorious'
+
+
+Sentence:
+	The twists of plot that trace a kidney thief who black-markets organs for $60,000 a pop never leaves you quite settled until the final frame.
+Opinion of 'plot':
+	 'that', 'not-leaves'
+
+
+Sentence:
+	Not to mention the costumes, dialogue, vehicles and more importantly the characters in the film itself.
+Opinion of 'plot':
+	 'not-mention'
+
+
+Sentence:
+	I found the plot to be a little farfetched
+Opinion of 'plot':
+	 'farfetched'
+
+
+Sentence:
+	With their childest voices, they shouldn't be used as a main plot of the story
+Opinion of 'plot':
+	 'not-used', 'main'
+
+
+Sentence:
+	The characters are not always likable, but they are never less than engrossing.
+Opinion of 'plot':
+	 'likable', 'not-are', 'not-less'
+
+
+Sentence:
+	The only reason I gave this 4 out of 5 is because the Special Features don't change much, apart from the details about the characters in each disk
+Opinion of 'plot':
+	 'not-change'
+
+
+Sentence:
+	Though I cannot deny that it is unbelievably cheesy, filled with practically every cliche one can imagine and contains tons of embarrassing dialogue (especially Kurt Russell's begging speech) and unconvincing love scenes (Mel, will you please kiss her like you mean it and stop squirming!), I LOVE this movie.
+Opinion of 'plot':
+	 'not-deny', 'unbelievably-cheesy'
+
+
+Sentence:
+	I would have loved to see the film go an hour longer and show why the Grail was vital to the plot.
+Opinion of 'plot':
+	 'vital'
+
+
+Sentence:
+	The entire plot is self-serving, shallow, and unrealistic.
+Opinion of 'plot':
+	 'entire', 'unrealistic', 'shallow'
+
+
+Sentence:
+	What sets the film apart from other WWII/Hitler films is that the characters are portrayed as human beings -- NOT stereotypical Hollywood caricatures.
+Opinion of 'plot':
+	 'What'
+
+
+Sentence:
+	This one has it all- a good storyline, good acting, memorable characters, and introduces our favorite killer- Jason
+Opinion of 'plot':
+	 'introduces', 'all-'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'plot':
+	 'believable'
+
+
+Sentence:
+	Another great aspect of the show is they are not afraid to kill off main characters that you grow to love on the show, so you will never now what is going to happen next which keeps you wanting more.
+Opinion of 'plot':
+	 'not-afraid', 'that', 'next', 'which'
+
+
+Sentence:
+	As one can imagine, thses characters are almost always pathetic.
+Opinion of 'plot':
+	 'always-pathetic'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	Also, while most BBC productions of literary masterpieces are studies in social conservatism this one obviously identifies with and invites us to identify with its most irreverent and forward-thinking characters: in this case the sultry and sophisticated, and somewhat libertine (in a 1920's kind of way), Lady Chatterly & the earthy and irreverent and smoldering (smoldering both with class resentment and with lust for a lady from the oppressive class) Oliver Mellors.
+Opinion of 'plot':
+	 'irreverent', 'earthy'
+
+
+Sentence:
+	While we never really understand why the electrical shock enables Gibson to hear the thoughts of women, that particular plot device takes a back seat to what happens with Gibson in his relationships with his new boss (Hunt); Marisa Tomei as a hottie at the coffeeshop; and Ashley Johnson as his estranged daughter.
+Opinion of 'plot':
+	 'not-understand'
+
+
+Sentence:
+	Then why do all the male characters still act egotistical?
+Opinion of 'plot':
+	 'egotistical'
+
+
+Sentence:
+	It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+Opinion of 'plot':
+	 'its', 'that'
+
+
+Sentence:
+	Well that's about the entire plot of this movie.
+Opinion of 'plot':
+	 'entire'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	The movie "Boo" features terrible acting, and a deplorable plot.
+Opinion of 'plot':
+	 'deplorable'
+
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'plot':
+	 'great'
+
+
+Sentence:
+	Another part of the story I found annoying was the lack of communication between the main characters.
+Opinion of 'plot':
+	 'annoying'
+
+
+Sentence:
+	Another player in the plot is Ray Duquette (Kevin Bacon), the detective investigating the rapes who is skeptical of both stories.
+Opinion of 'plot':
+	 'skeptical'
+
+
+Sentence:
+	Delhomme's photography is beautiful in how it sorts out the natural beauty and the psychological tone of the film - using that stark light to disorient our tradional ideas of what might happen and the pictures of the land and the faces to carry the plot out.
+Opinion of 'plot':
+	 'beautiful'
+
+
+Sentence:
+	The dialogue is wonderful, all of the performances are superb, and Capra's direction are excellent.
+Opinion of 'plot':
+	 'wonderful', 'superb', 'excellent'
+
+
+Sentence:
+	The scenery was beautiful and the characters were very much like the American Girl books written.
+Opinion of 'plot':
+	 'beautiful'
+
+
+Sentence:
+	She thinks everything and everyone is really really stupid, she does nothing but argue with everyone all the time, it's all her parents fault of course because she's perfect, her dialogue consists of nothing but smart-aleck remarks that she says in that "oh so cute" way that fans of Lizzie McGuire may find clever...good grief.
+Opinion of 'plot':
+	 'really-really-stupid', 'perfect', 'that', 'clever'
+
+
+Sentence:
+	The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+Opinion of 'plot':
+	 'so-prominent', 'same'
+
+
+Sentence:
+	But in this remake, many plot points are too obvious like who among the precinct's defenders will become a traitor.
+Opinion of 'plot':
+	 'too-obvious'
+
+
+Sentence:
+	Some of these outakes give a lot of insite into camp life and the characters, which is always fun.
+Opinion of 'plot':
+	 'which', 'fun'
+
+
+Sentence:
+	I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+Opinion of 'plot':
+	 'silly'
+
+
+Sentence:
+
+	it was an ight movie..had lots of action, pretty gory compared to other Jet li movies.. the movie has a cheesy plot..but the action covers it all.. the fighting in the movie cant be compared to that of Fist of legend (wich in my oponion is Jet Li's best work) but its still adds up to great action..one things for shure, this aint really a hard core martial arts movie..theres is alot of shootings..stabbings, killing..gory scenes and sum distrubing scenes..pretty dark for a jet li movie..thats why i kina understand the "R" rating.. the swearing is really fun too..because the movie is dubbed horribly..but its still ok..like when they say muther effer..in one scene a crime boss says " we better get that muther effer" lol i laughed,,there is really corny lines through out the movie..i guess it gives it comic relief..as the movie is a little too serious...the hip hop in the movie also pissed me off, they actually thought it was kool to slip sum rap tracks in the background..well it made it annoying... some simple music woulda been good., overall the movie is good, hell even ma dad liked it..dont think..Jet li has made better crap then this..if u wana waste time n watch a movie..watch this....ight im out..peac
+Opinion of 'plot':
+	 'pretty-gory', 'cheesy', 'not-compared', 'its', 'not-ai', 'really-fun', 'too-serious', 'its', 'annoying', 'good', 'good', 'even-ma'
+
+
+Sentence:
+	The classic childhood story written my Lewis Carroll, is given a brilliant boost with great animated characters that bring Alice's adventures to glorious life.
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	No one can act, the plot (was there a script?) is absurd, the music is dreadful, and the director must have been high much of the time.
+Opinion of 'plot':
+	 'absurd', 'dreadful', 'high'
+
+
+Sentence:
+	The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+Opinion of 'plot':
+	 'stupid', 'insipid', 'dull', 'not-waste'
+
+
+Sentence:
+	My wife says all of his movies are the same, and it breaks my heart everytime she says it...because in that blanket analysis, the analyst misses the incredible stories and crafty dialogue that takes place in the many Woody Allen movies that pretty much take place within the same template.
+Opinion of 'plot':
+	 'same', 'that', 'that'
+
+
+Sentence:
+	Almost the entire plot is onboard and underway.
+Opinion of 'plot':
+	 'entire'
+
+
+Sentence:
+	Furthermore, they fail to make enough sequential sense of the film's plot to really mean much to the film as a greater whole.
+Opinion of 'plot':
+	 'much'
+
+
+Sentence:
+	My only complaint is that, in a way, not much happens, but you relate and care about the characters too much to care.
+Opinion of 'plot':
+	 'not-happens'
+
+
+Sentence:
+	It is one of those ones that you keep watching because you think it may get better and it never does... stupid plot - too many holes and stupid ending.
+Opinion of 'plot':
+	 'that', 'better', 'stupid', 'not-does'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'plot':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	The jokes are as fresh as ever, and the characters just get funnier in this series.
+Opinion of 'plot':
+	 'as-fresh', 'funnier'
+
+
+Sentence:
+	He discovers a new talent (artist Christina Milian) and works his way through an assortment of characters that are more types and cliches than real characters.
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	Unfortunately for the non-science enthusiast, the screenplay dialogue is absolutely overrun with swift moving unexplained techno-jargon that may unintentionally frustrate those viewers to the point of disappointment as they find themselves getting more and more lost between plot lines.
+Opinion of 'plot':
+	 'that', 'more', 'more'
+
+
+Sentence:
+	If the plot were better it would be a film worth watching
+Opinion of 'plot':
+	 'better'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'plot':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	His nuances are great, yet there seems to be an overpowering sense of sadness in his characters.
+Opinion of 'plot':
+	 'great'
+
+
+Sentence:
+	"Videodrome" is certainly no exception: the DVD not only includes the unrated (uncut) version of the movie, but also includes well over an hour of supplimentary footage that makes understanding the plot far easier.
+Opinion of 'plot':
+	 'uncut', 'that', 'far-easier'
+
+
+Sentence:
+	Very good plot and detail
+Opinion of 'plot':
+	 'Very', 'good'
+
+
+Sentence:
+	So much was done right in the way of depicting the social mores and economic conditions of the early 1900's, that the viewer feels sympathy for the trials and tribulations of the characters; but humor is not left out.
+Opinion of 'plot':
+	 'much', 'not-left'
+
+
+Sentence:
+	The collectible booklet that's included provides plot summaries and quotes from the director and/or cast member(s).
+Opinion of 'plot':
+	 'that'
+
+
+Sentence:
+	Selection of
+locations, environments and characters is simply wonderful -- sure to
+keep the viewer engrossed, even though the dialogue is uncompromisingly
+British.
+Opinion of 'plot':
+	 'sure', 'simply-wonderful', 'British'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'plot':
+	 'believable'
+
+
+Sentence:
+	The characters and the situations remind me of the short stories I would write in the sixth grade when I was around 12 years old, where all of the characters have a bunch of dumb, absurd eccentricities that anyone could come up with if they wanted to because you're wanting so badly to be inventive and unique but in hindsight they make you cringe and tear up all those old notebooks full of such irritating, inane nonsense.
+Opinion of 'plot':
+	 'old', 'that', 'unique', 'inventive'
+
+
+Sentence:
+	It's also a "rubber reality" film--those are defined partially through "shifting" realities, where we as an audience, usually along with at least some characters, don't know quite what was real, if anything.
+Opinion of 'plot':
+	 'not-know', 'real'
+
+
+Sentence:
+	By the end of movie you don't like any of the characters and you don't care what happens to them, even the ones that started out sympathetic and likable.
+Opinion of 'plot':
+	 'not-like', 'likable', 'sympathetic', 'not-care', 'that'
+
+
+Results for aspect word 'characters'
+
+Sentence:
+	"GO" takes place in a 24 hour period on christmas eve following 3 of the main characters and events.
+Opinion of 'characters':
+	 'main'
+
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'characters':
+	 'great'
+
+
+Sentence:
+	I like the fact that while the characters are caught up in this life, they don't make it look so glorious that young kids would be attracted to this life while viewing the movie
+Opinion of 'characters':
+	 'not-make', 'so-glorious'
+
+
+Sentence:
+	The twists of plot that trace a kidney thief who black-markets organs for $60,000 a pop never leaves you quite settled until the final frame.
+Opinion of 'characters':
+	 'that', 'not-leaves'
+
+
+Sentence:
+	Not to mention the costumes, dialogue, vehicles and more importantly the characters in the film itself.
+Opinion of 'characters':
+	 'not-mention'
+
+
+Sentence:
+	I found the plot to be a little farfetched
+Opinion of 'characters':
+	 'farfetched'
+
+
+Sentence:
+	With their childest voices, they shouldn't be used as a main plot of the story
+Opinion of 'characters':
+	 'not-used'
+
+
+Sentence:
+	The characters are not always likable, but they are never less than engrossing.
+Opinion of 'characters':
+	 'likable', 'not-are', 'not-less'
+
+
+Sentence:
+	The only reason I gave this 4 out of 5 is because the Special Features don't change much, apart from the details about the characters in each disk
+Opinion of 'characters':
+	 'not-change'
+
+
+Sentence:
+	Though I cannot deny that it is unbelievably cheesy, filled with practically every cliche one can imagine and contains tons of embarrassing dialogue (especially Kurt Russell's begging speech) and unconvincing love scenes (Mel, will you please kiss her like you mean it and stop squirming!), I LOVE this movie.
+Opinion of 'characters':
+
+	 'not-deny', 'unbelievably-cheesy'
+
+
+Sentence:
+	I would have loved to see the film go an hour longer and show why the Grail was vital to the plot.
+Opinion of 'characters':
+	 'vital'
+
+
+Sentence:
+	The entire plot is self-serving, shallow, and unrealistic.
+Opinion of 'characters':
+	 'unrealistic', 'shallow'
+
+
+Sentence:
+	What sets the film apart from other WWII/Hitler films is that the characters are portrayed as human beings -- NOT stereotypical Hollywood caricatures.
+Opinion of 'characters':
+	 'What'
+
+
+Sentence:
+	This one has it all- a good storyline, good acting, memorable characters, and introduces our favorite killer- Jason
+Opinion of 'characters':
+	 'introduces', 'all-', 'good', 'acting', 'memorable'
+
+
+Sentence:
+	Excellent characters, fantastic acting and wonderful settings.
+Opinion of 'characters':
+	 'Excellent'
+
+
+Sentence:
+	Carl Reiner did a very skillful job at creating a sometimes hilarious film with excellent characters.
+Opinion of 'characters':
+	 'excellent'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'characters':
+	 'charming', 'that'
+
+
+Sentence:
+	Along the way he encounters a host of intriguing characters, including a crazy-like-a-fox entrepreneurial bush pilot looking to make some sort of big score, a number of wacky bit players who I can easily imagine were not actors, but the real deal, and every bit as eccentric as they appeared; and an endearingly sage old Inuit of few words but many eloquent silences.
+Opinion of 'characters':
+	 'intriguing'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'characters':
+	 'believable'
+
+
+Sentence:
+	Another great aspect of the show is they are not afraid to kill off main characters that you grow to love on the show, so you will never now what is going to happen next which keeps you wanting more.
+Opinion of 'characters':
+	 'not-afraid', 'main', 'that', 'next', 'which'
+
+
+Sentence:
+	As one can imagine, thses characters are almost always pathetic.
+Opinion of 'characters':
+	 'always-pathetic'
+
+
+Sentence:
+	And it has great characters like the gargoyles or Quasimodo or Esmeralda.
+Opinion of 'characters':
+	 'great'
+
+
+Sentence:
+	However, it is brilliantly done, and unlike the series finale of Buffy, the fate of the surviving characters is left up in the air.
+Opinion of 'characters':
+	 'surviving'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'characters':
+	 'charming', 'that'
+
+
+Sentence:
+	Also, while most BBC productions of literary masterpieces are studies in social conservatism this one obviously identifies with and invites us to identify with its most irreverent and forward-thinking characters: in this case the sultry and sophisticated, and somewhat libertine (in a 1920's kind of way), Lady Chatterly & the earthy and irreverent and smoldering (smoldering both with class resentment and with lust for a lady from the oppressive class) Oliver Mellors.
+Opinion of 'characters':
+	 'forward-thinking', 'irreverent', 'earthy'
+
+
+Sentence:
+	While we never really understand why the electrical shock enables Gibson to hear the thoughts of women, that particular plot device takes a back seat to what happens with Gibson in his relationships with his new boss (Hunt); Marisa Tomei as a hottie at the coffeeshop; and Ashley Johnson as his estranged daughter.
+Opinion of 'characters':
+	 'not-understand'
+
+
+Sentence:
+	Then why do all the male characters still act egotistical?
+Opinion of 'characters':
+	 'male', 'egotistical'
+
+
+Sentence:
+	It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+Opinion of 'characters':
+	 'its', 'that'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'characters':
+	 'charming', 'that'
+
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'characters':
+	 'great'
+
+
+Sentence:
+	Another part of the story I found annoying was the lack of communication between the main characters.
+Opinion of 'characters':
+	 'annoying', 'main'
+
+
+Sentence:
+	Another player in the plot is Ray Duquette (Kevin Bacon), the detective investigating the rapes who is skeptical of both stories.
+Opinion of 'characters':
+	 'skeptical'
+
+
+Sentence:
+	Delhomme's photography is beautiful in how it sorts out the natural beauty and the psychological tone of the film - using that stark light to disorient our tradional ideas of what might happen and the pictures of the land and the faces to carry the plot out.
+Opinion of 'characters':
+	 'beautiful'
+
+
+Sentence:
+	The dialogue is wonderful, all of the performances are superb, and Capra's direction are excellent.
+Opinion of 'characters':
+	 'wonderful', 'superb', 'excellent'
+
+
+Sentence:
+	The scenery was beautiful and the characters were very much like the American Girl books written.
+Opinion of 'characters':
+	 'beautiful'
+
+
+Sentence:
+	She thinks everything and everyone is really really stupid, she does nothing but argue with everyone all the time, it's all her parents fault of course because she's perfect, her dialogue consists of nothing but smart-aleck remarks that she says in that "oh so cute" way that fans of Lizzie McGuire may find clever...good grief.
+Opinion of 'characters':
+	 'really-really-stupid', 'perfect', 'that', 'clever'
+
+
+Sentence:
+	The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+Opinion of 'characters':
+	 'so-prominent', 'both-same'
+
+
+Sentence:
+	But in this remake, many plot points are too obvious like who among the precinct's defenders will become a traitor.
+Opinion of 'characters':
+	 'too-obvious'
+
+
+Sentence:
+	Some of these outakes give a lot of insite into camp life and the characters, which is always fun.
+Opinion of 'characters':
+	 'which', 'fun'
+
+
+Sentence:
+	I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+Opinion of 'characters':
+	 'silly'
+
+
+Sentence:
+	it was an ight movie..had lots of action, pretty gory compared to other Jet li movies.. the movie has a cheesy plot..but the action covers it all.. the fighting in the movie cant be compared to that of Fist of legend (wich in my oponion is Jet Li's best work) but its still adds up to great action..one things for shure, this aint really a hard core martial arts movie..theres is alot of shootings..stabbings, killing..gory scenes and sum distrubing scenes..pretty dark for a jet li movie..thats why i kina understand the "R" rating.. the swearing is really fun too..because the movie is dubbed horribly..but its still ok..like when they say muther effer..in one scene a crime boss says " we better get that muther effer" lol i laughed,,there is really corny lines through out the movie..i guess it gives it comic relief..as the movie is a little too serious...the hip hop in the movie also pissed me off, they actually thought it was kool to slip sum rap tracks in the background..well it made it annoying... some simple music woulda been good., overall the movie is good, hell even ma dad liked it..dont think..Jet li has made better crap then this..if u wana waste time n watch a movie..watch this....ight im out..peac
+Opinion of 'characters':
+	 'pretty-gory', 'not-compared', 'its', 'not-ai', 'really-fun', 'too-serious', 'its', 'annoying', 'good', 'good', 'even-ma'
+
+
+Sentence:
+	The classic childhood story written my Lewis Carroll, is given a brilliant boost with great animated characters that bring Alice's adventures to glorious life.
+Opinion of 'characters':
+	 'great', 'animated', 'that'
+
+
+Sentence:
+
+	No one can act, the plot (was there a script?) is absurd, the music is dreadful, and the director must have been high much of the time.
+Opinion of 'characters':
+	 'absurd', 'dreadful', 'high'
+
+
+Sentence:
+	The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+Opinion of 'characters':
+	 'stupid', 'insipid', 'dull', 'not-waste'
+
+
+Sentence:
+	My wife says all of his movies are the same, and it breaks my heart everytime she says it...because in that blanket analysis, the analyst misses the incredible stories and crafty dialogue that takes place in the many Woody Allen movies that pretty much take place within the same template.
+Opinion of 'characters':
+	 'same', 'that', 'that'
+
+
+Sentence:
+	New interviews with all the main characters, including Johnny Depp.
+Opinion of 'characters':
+	 'main'
+
+
+Sentence:
+	Furthermore, they fail to make enough sequential sense of the film's plot to really mean much to the film as a greater whole.
+Opinion of 'characters':
+	 'much'
+
+
+Sentence:
+	My only complaint is that, in a way, not much happens, but you relate and care about the characters too much to care.
+Opinion of 'characters':
+	 'not-happens', 'too-much'
+
+
+Sentence:
+	The film depicts the evolution of these various characters as they come to terms with the progression of their love lives and professions.
+Opinion of 'characters':
+	 'various'
+
+
+Sentence:
+	It is one of those ones that you keep watching because you think it may get better and it never does... stupid plot - too many holes and stupid ending.
+Opinion of 'characters':
+	 'that', 'better', 'stupid', 'not-does'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'characters':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	The jokes are as fresh as ever, and the characters just get funnier in this series.
+Opinion of 'characters':
+	 'as-fresh', 'funnier'
+
+
+Sentence:
+	He discovers a new talent (artist Christina Milian) and works his way through an assortment of characters that are more types and cliches than real characters.
+Opinion of 'characters':
+	 'that', 'real'
+
+
+Sentence:
+	Unfortunately for the non-science enthusiast, the screenplay dialogue is absolutely overrun with swift moving unexplained techno-jargon that may unintentionally frustrate those viewers to the point of disappointment as they find themselves getting more and more lost between plot lines.
+Opinion of 'characters':
+	 'that', 'more', 'more'
+
+
+Sentence:
+	If the plot were better it would be a film worth watching
+Opinion of 'characters':
+	 'better'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'characters':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	His nuances are great, yet there seems to be an overpowering sense of sadness in his characters.
+Opinion of 'characters':
+	 'great'
+
+
+Sentence:
+	Part of Dickens' genius was the ability to enable the reader to FEEL 
+the time and place of the storyline unfolding, as well as the visualize
+the gamut of intriguing characters.
+Opinion of 'characters':
+	 'intriguing'
+
+
+Sentence:
+	"Videodrome" is certainly no exception: the DVD not only includes the unrated (uncut) version of the movie, but also includes well over an hour of supplimentary footage that makes understanding the plot far easier.
+Opinion of 'characters':
+	 'uncut', 'that', 'far-easier'
+
+
+Sentence:
+	So much was done right in the way of depicting the social mores and economic conditions of the early 1900's, that the viewer feels sympathy for the trials and tribulations of the characters; but humor is not left out.
+Opinion of 'characters':
+	 'much', 'not-left'
+
+
+Sentence:
+	The collectible booklet that's included provides plot summaries and quotes from the director and/or cast member(s).
+Opinion of 'characters':
+	 'that'
+
+
+Sentence:
+	Selection of
+locations, environments and characters is simply wonderful -- sure to
+keep the viewer engrossed, even though the dialogue is uncompromisingly
+British.
+Opinion of 'characters':
+	 'sure', 'simply-wonderful', 'British'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'characters':
+	 'believable'
+
+
+Sentence:
+	The characters and the situations remind me of the short stories I would write in the sixth grade when I was around 12 years old, where all of the characters have a bunch of dumb, absurd eccentricities that anyone could come up with if they wanted to because you're wanting so badly to be inventive and unique but in hindsight they make you cringe and tear up all those old notebooks full of such irritating, inane nonsense.
+Opinion of 'characters':
+	 'old', 'that', 'unique', 'inventive'
+
+
+Sentence:
+	It's also a "rubber reality" film--those are defined partially through "shifting" realities, where we as an audience, usually along with at least some characters, don't know quite what was real, if anything.
+Opinion of 'characters':
+	 'not-know', 'real'
+
+
+Sentence:
+	By the end of movie you don't like any of the characters and you don't care what happens to them, even the ones that started out sympathetic and likable.
+Opinion of 'characters':
+	 'not-like', 'likable', 'sympathetic', 'not-care', 'that'
+
+
+Results for aspect word 'cinematography'
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'cinematography':
+	 'great'
+
+
+Sentence:
+	I like the fact that while the characters are caught up in this life, they don't make it look so glorious that young kids would be attracted to this life while viewing the movie
+Opinion of 'cinematography':
+	 'not-make', 'so-glorious'
+
+
+Sentence:
+	The twists of plot that trace a kidney thief who black-markets organs for $60,000 a pop never leaves you quite settled until the final frame.
+Opinion of 'cinematography':
+	 'that', 'not-leaves'
+
+
+Sentence:
+	Not to mention the costumes, dialogue, vehicles and more importantly the characters in the film itself.
+Opinion of 'cinematography':
+	 'not-mention'
+
+
+Sentence:
+	I found the plot to be a little farfetched
+Opinion of 'cinematography':
+	 'farfetched'
+
+
+Sentence:
+	With their childest voices, they shouldn't be used as a main plot of the story
+Opinion of 'cinematography':
+	 'not-used'
+
+
+Sentence:
+	The characters are not always likable, but they are never less than engrossing.
+Opinion of 'cinematography':
+	 'likable', 'not-are', 'not-less'
+
+
+Sentence:
+	The only reason I gave this 4 out of 5 is because the Special Features don't change much, apart from the details about the characters in each disk
+Opinion of 'cinematography':
+	 'not-change'
+
+
+Sentence:
+	Though I cannot deny that it is unbelievably cheesy, filled with practically every cliche one can imagine and contains tons of embarrassing dialogue (especially Kurt Russell's begging speech) and unconvincing love scenes (Mel, will you please kiss her like you mean it and stop squirming!), I LOVE this movie.
+Opinion of 'cinematography':
+	 'not-deny', 'unbelievably-cheesy'
+
+
+Sentence:
+	I would have loved to see the film go an hour longer and show why the Grail was vital to the plot.
+Opinion of 'cinematography':
+	 'vital'
+
+
+Sentence:
+	The entire plot is self-serving, shallow, and unrealistic.
+Opinion of 'cinematography':
+	 'unrealistic', 'shallow'
+
+
+Sentence:
+	What sets the film apart from other WWII/Hitler films is that the characters are portrayed as human beings -- NOT stereotypical Hollywood caricatures.
+Opinion of 'cinematography':
+	 'What'
+
+
+Sentence:
+	This one has it all- a good storyline, good acting, memorable characters, and introduces our favorite killer- Jason
+Opinion of 'cinematography':
+	 'introduces', 'all-'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'cinematography':
+	 'believable'
+
+
+Sentence:
+
+	Another great aspect of the show is they are not afraid to kill off main characters that you grow to love on the show, so you will never now what is going to happen next which keeps you wanting more.
+Opinion of 'cinematography':
+	 'not-afraid', 'that', 'next', 'which'
+
+
+Sentence:
+	As one can imagine, thses characters are almost always pathetic.
+Opinion of 'cinematography':
+	 'always-pathetic'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+	Also, while most BBC productions of literary masterpieces are studies in social conservatism this one obviously identifies with and invites us to identify with its most irreverent and forward-thinking characters: in this case the sultry and sophisticated, and somewhat libertine (in a 1920's kind of way), Lady Chatterly & the earthy and irreverent and smoldering (smoldering both with class resentment and with lust for a lady from the oppressive class) Oliver Mellors.
+Opinion of 'cinematography':
+	 'irreverent', 'earthy'
+
+
+Sentence:
+	While we never really understand why the electrical shock enables Gibson to hear the thoughts of women, that particular plot device takes a back seat to what happens with Gibson in his relationships with his new boss (Hunt); Marisa Tomei as a hottie at the coffeeshop; and Ashley Johnson as his estranged daughter.
+Opinion of 'cinematography':
+	 'not-understand'
+
+
+Sentence:
+	Then why do all the male characters still act egotistical?
+Opinion of 'cinematography':
+	 'egotistical'
+
+
+Sentence:
+	It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+Opinion of 'cinematography':
+	 'its', 'that'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'cinematography':
+	 'great'
+
+
+Sentence:
+	Another part of the story I found annoying was the lack of communication between the main characters.
+Opinion of 'cinematography':
+	 'annoying'
+
+
+Sentence:
+	So, despite the beautiful cinematography, this movie is a hopeless muddle.
+Opinion of 'cinematography':
+	 'beautiful'
+
+
+Sentence:
+	Another player in the plot is Ray Duquette (Kevin Bacon), the detective investigating the rapes who is skeptical of both stories.
+Opinion of 'cinematography':
+	 'skeptical'
+
+
+Sentence:
+	Delhomme's photography is beautiful in how it sorts out the natural beauty and the psychological tone of the film - using that stark light to disorient our tradional ideas of what might happen and the pictures of the land and the faces to carry the plot out.
+Opinion of 'cinematography':
+	 'beautiful'
+
+
+Sentence:
+	The dialogue is wonderful, all of the performances are superb, and Capra's direction are excellent.
+Opinion of 'cinematography':
+	 'wonderful', 'superb', 'excellent'
+
+
+Sentence:
+	The scenery was beautiful and the characters were very much like the American Girl books written.
+Opinion of 'cinematography':
+	 'beautiful'
+
+
+Sentence:
+	She thinks everything and everyone is really really stupid, she does nothing but argue with everyone all the time, it's all her parents fault of course because she's perfect, her dialogue consists of nothing but smart-aleck remarks that she says in that "oh so cute" way that fans of Lizzie McGuire may find clever...good grief.
+Opinion of 'cinematography':
+	 'really-really-stupid', 'perfect', 'that', 'clever'
+
+
+Sentence:
+	The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+Opinion of 'cinematography':
+	 'so-prominent'
+
+
+Sentence:
+	But in this remake, many plot points are too obvious like who among the precinct's defenders will become a traitor.
+Opinion of 'cinematography':
+	 'too-obvious'
+
+
+Sentence:
+	Some of these outakes give a lot of insite into camp life and the characters, which is always fun.
+Opinion of 'cinematography':
+	 'which', 'fun'
+
+
+Sentence:
+	I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+Opinion of 'cinematography':
+	 'silly'
+
+
+Sentence:
+	it was an ight movie..had lots of action, pretty gory compared to other Jet li movies.. the movie has a cheesy plot..but the action covers it all.. the fighting in the movie cant be compared to that of Fist of legend (wich in my oponion is Jet Li's best work) but its still adds up to great action..one things for shure, this aint really a hard core martial arts movie..theres is alot of shootings..stabbings, killing..gory scenes and sum distrubing scenes..pretty dark for a jet li movie..thats why i kina understand the "R" rating.. the swearing is really fun too..because the movie is dubbed horribly..but its still ok..like when they say muther effer..in one scene a crime boss says " we better get that muther effer" lol i laughed,,there is really corny lines through out the movie..i guess it gives it comic relief..as the movie is a little too serious...the hip hop in the movie also pissed me off, they actually thought it was kool to slip sum rap tracks in the background..well it made it annoying... some simple music woulda been good., overall the movie is good, hell even ma dad liked it..dont think..Jet li has made better crap then this..if u wana waste time n watch a movie..watch this....ight im out..peac
+Opinion of 'cinematography':
+	 'pretty-gory', 'not-compared', 'its', 'not-ai', 'really-fun', 'too-serious', 'its', 'annoying', 'good', 'good', 'even-ma'
+
+
+Sentence:
+	The classic childhood story written my Lewis Carroll, is given a brilliant boost with great animated characters that bring Alice's adventures to glorious life.
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+	Well, nice cinematography as set-designer work: nicely interiors and well dressed actors.
+Opinion of 'cinematography':
+	 'nice'
+
+
+Sentence:
+	No one can act, the plot (was there a script?) is absurd, the music is dreadful, and the director must have been high much of the time.
+Opinion of 'cinematography':
+	 'absurd', 'dreadful', 'high'
+
+
+Sentence:
+	The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+Opinion of 'cinematography':
+	 'stupid', 'insipid', 'dull', 'not-waste'
+
+
+Sentence:
+	My wife says all of his movies are the same, and it breaks my heart everytime she says it...because in that blanket analysis, the analyst misses the incredible stories and crafty dialogue that takes place in the many Woody Allen movies that pretty much take place within the same template.
+Opinion of 'cinematography':
+	 'same', 'that', 'that'
+
+
+Sentence:
+	Furthermore, they fail to make enough sequential sense of the film's plot to really mean much to the film as a greater whole.
+Opinion of 'cinematography':
+	 'much'
+
+
+Sentence:
+	My only complaint is that, in a way, not much happens, but you relate and care about the characters too much to care.
+Opinion of 'cinematography':
+	 'not-happens'
+
+
+Sentence:
+	It is one of those ones that you keep watching because you think it may get better and it never does... stupid plot - too many holes and stupid ending.
+Opinion of 'cinematography':
+	 'that', 'better', 'stupid', 'not-does'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'cinematography':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	The jokes are as fresh as ever, and the characters just get funnier in this series.
+Opinion of 'cinematography':
+	 'as-fresh', 'funnier'
+
+
+Sentence:
+	He discovers a new talent (artist Christina Milian) and works his way through an assortment of characters that are more types and cliches than real characters.
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+
+	Unfortunately for the non-science enthusiast, the screenplay dialogue is absolutely overrun with swift moving unexplained techno-jargon that may unintentionally frustrate those viewers to the point of disappointment as they find themselves getting more and more lost between plot lines.
+Opinion of 'cinematography':
+	 'that', 'more', 'more'
+
+
+Sentence:
+	If the plot were better it would be a film worth watching
+Opinion of 'cinematography':
+	 'better'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'cinematography':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	His nuances are great, yet there seems to be an overpowering sense of sadness in his characters.
+Opinion of 'cinematography':
+	 'great'
+
+
+Sentence:
+	"Videodrome" is certainly no exception: the DVD not only includes the unrated (uncut) version of the movie, but also includes well over an hour of supplimentary footage that makes understanding the plot far easier.
+Opinion of 'cinematography':
+	 'uncut', 'that', 'far-easier'
+
+
+Sentence:
+	So much was done right in the way of depicting the social mores and economic conditions of the early 1900's, that the viewer feels sympathy for the trials and tribulations of the characters; but humor is not left out.
+Opinion of 'cinematography':
+	 'much', 'not-left'
+
+
+Sentence:
+	The collectible booklet that's included provides plot summaries and quotes from the director and/or cast member(s).
+Opinion of 'cinematography':
+	 'that'
+
+
+Sentence:
+	Selection of
+locations, environments and characters is simply wonderful -- sure to
+keep the viewer engrossed, even though the dialogue is uncompromisingly
+British.
+Opinion of 'cinematography':
+	 'sure', 'simply-wonderful', 'British'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'cinematography':
+	 'believable'
+
+
+Sentence:
+	The characters and the situations remind me of the short stories I would write in the sixth grade when I was around 12 years old, where all of the characters have a bunch of dumb, absurd eccentricities that anyone could come up with if they wanted to because you're wanting so badly to be inventive and unique but in hindsight they make you cringe and tear up all those old notebooks full of such irritating, inane nonsense.
+Opinion of 'cinematography':
+	 'old', 'that', 'unique', 'inventive'
+
+
+Sentence:
+	It's also a "rubber reality" film--those are defined partially through "shifting" realities, where we as an audience, usually along with at least some characters, don't know quite what was real, if anything.
+Opinion of 'cinematography':
+	 'not-know', 'real'
+
+
+Sentence:
+	By the end of movie you don't like any of the characters and you don't care what happens to them, even the ones that started out sympathetic and likable.
+Opinion of 'cinematography':
+	 'not-like', 'likable', 'sympathetic', 'not-care', 'that'
+
+
+Results for aspect word 'dialogue'
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'dialogue':
+	 'great'
+
+
+Sentence:
+	I like the fact that while the characters are caught up in this life, they don't make it look so glorious that young kids would be attracted to this life while viewing the movie
+Opinion of 'dialogue':
+	 'not-make', 'so-glorious'
+
+
+Sentence:
+	The twists of plot that trace a kidney thief who black-markets organs for $60,000 a pop never leaves you quite settled until the final frame.
+Opinion of 'dialogue':
+	 'that', 'not-leaves'
+
+
+Sentence:
+	Not to mention the costumes, dialogue, vehicles and more importantly the characters in the film itself.
+Opinion of 'dialogue':
+	 'not-mention'
+
+
+Sentence:
+	I found the plot to be a little farfetched
+Opinion of 'dialogue':
+	 'farfetched'
+
+
+Sentence:
+	With their childest voices, they shouldn't be used as a main plot of the story
+Opinion of 'dialogue':
+	 'not-used'
+
+
+Sentence:
+	The characters are not always likable, but they are never less than engrossing.
+Opinion of 'dialogue':
+	 'likable', 'not-are', 'not-less'
+
+
+Sentence:
+	The only reason I gave this 4 out of 5 is because the Special Features don't change much, apart from the details about the characters in each disk
+Opinion of 'dialogue':
+	 'not-change'
+
+
+Sentence:
+	The only really good thing in there is Leo McKern, who shines forth like a beacon in a fog of wooden acting and stilted dialogue.
+Opinion of 'dialogue':
+	 'stilted'
+
+
+Sentence:
+	Though I cannot deny that it is unbelievably cheesy, filled with practically every cliche one can imagine and contains tons of embarrassing dialogue (especially Kurt Russell's begging speech) and unconvincing love scenes (Mel, will you please kiss her like you mean it and stop squirming!), I LOVE this movie.
+Opinion of 'dialogue':
+	 'not-deny', 'unbelievably-cheesy'
+
+
+Sentence:
+	I would have loved to see the film go an hour longer and show why the Grail was vital to the plot.
+Opinion of 'dialogue':
+	 'vital'
+
+
+Sentence:
+	The entire plot is self-serving, shallow, and unrealistic.
+Opinion of 'dialogue':
+	 'unrealistic', 'shallow'
+
+
+Sentence:
+	What sets the film apart from other WWII/Hitler films is that the characters are portrayed as human beings -- NOT stereotypical Hollywood caricatures.
+Opinion of 'dialogue':
+	 'What'
+
+
+Sentence:
+	This one has it all- a good storyline, good acting, memorable characters, and introduces our favorite killer- Jason
+Opinion of 'dialogue':
+	 'introduces', 'all-'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'dialogue':
+	 'believable'
+
+
+Sentence:
+	Another great aspect of the show is they are not afraid to kill off main characters that you grow to love on the show, so you will never now what is going to happen next which keeps you wanting more.
+Opinion of 'dialogue':
+	 'not-afraid', 'that', 'next', 'which'
+
+
+Sentence:
+	As one can imagine, thses characters are almost always pathetic.
+Opinion of 'dialogue':
+	 'always-pathetic'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	Also, while most BBC productions of literary masterpieces are studies in social conservatism this one obviously identifies with and invites us to identify with its most irreverent and forward-thinking characters: in this case the sultry and sophisticated, and somewhat libertine (in a 1920's kind of way), Lady Chatterly & the earthy and irreverent and smoldering (smoldering both with class resentment and with lust for a lady from the oppressive class) Oliver Mellors.
+Opinion of 'dialogue':
+	 'irreverent', 'earthy'
+
+
+Sentence:
+	While we never really understand why the electrical shock enables Gibson to hear the thoughts of women, that particular plot device takes a back seat to what happens with Gibson in his relationships with his new boss (Hunt); Marisa Tomei as a hottie at the coffeeshop; and Ashley Johnson as his estranged daughter.
+Opinion of 'dialogue':
+	 'not-understand'
+
+
+Sentence:
+	Then why do all the male characters still act egotistical?
+Opinion of 'dialogue':
+	 'egotistical'
+
+
+Sentence:
+	It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+Opinion of 'dialogue':
+	 'its', 'that'
+
+
+Sentence:
+	It's for anyone who has a longing to "escape" the everyday just for awhile...just a fun story, charming characters, and a wonderful love story that makes you want to fly off to Rome
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	The mood, cinematography, the soundtrack is all great.
+Opinion of 'dialogue':
+	 'great'
+
+
+Sentence:
+	Another part of the story I found annoying was the lack of communication between the main characters.
+Opinion of 'dialogue':
+	 'annoying'
+
+
+Sentence:
+
+	Another player in the plot is Ray Duquette (Kevin Bacon), the detective investigating the rapes who is skeptical of both stories.
+Opinion of 'dialogue':
+	 'skeptical'
+
+
+Sentence:
+	Delhomme's photography is beautiful in how it sorts out the natural beauty and the psychological tone of the film - using that stark light to disorient our tradional ideas of what might happen and the pictures of the land and the faces to carry the plot out.
+Opinion of 'dialogue':
+	 'beautiful'
+
+
+Sentence:
+	The dialogue is wonderful, all of the performances are superb, and Capra's direction are excellent.
+Opinion of 'dialogue':
+	 'wonderful', 'superb', 'excellent'
+
+
+Sentence:
+	The scenery was beautiful and the characters were very much like the American Girl books written.
+Opinion of 'dialogue':
+	 'beautiful'
+
+
+Sentence:
+	She thinks everything and everyone is really really stupid, she does nothing but argue with everyone all the time, it's all her parents fault of course because she's perfect, her dialogue consists of nothing but smart-aleck remarks that she says in that "oh so cute" way that fans of Lizzie McGuire may find clever...good grief.
+Opinion of 'dialogue':
+	 'really-really-stupid', 'perfect', 'that', 'clever'
+
+
+Sentence:
+	The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+Opinion of 'dialogue':
+	 'so-prominent'
+
+
+Sentence:
+	But in this remake, many plot points are too obvious like who among the precinct's defenders will become a traitor.
+Opinion of 'dialogue':
+	 'too-obvious'
+
+
+Sentence:
+	Some of these outakes give a lot of insite into camp life and the characters, which is always fun.
+Opinion of 'dialogue':
+	 'which', 'fun'
+
+
+Sentence:
+	I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+Opinion of 'dialogue':
+	 'silly', 'stilted', 'pointless'
+
+
+Sentence:
+	it was an ight movie..had lots of action, pretty gory compared to other Jet li movies.. the movie has a cheesy plot..but the action covers it all.. the fighting in the movie cant be compared to that of Fist of legend (wich in my oponion is Jet Li's best work) but its still adds up to great action..one things for shure, this aint really a hard core martial arts movie..theres is alot of shootings..stabbings, killing..gory scenes and sum distrubing scenes..pretty dark for a jet li movie..thats why i kina understand the "R" rating.. the swearing is really fun too..because the movie is dubbed horribly..but its still ok..like when they say muther effer..in one scene a crime boss says " we better get that muther effer" lol i laughed,,there is really corny lines through out the movie..i guess it gives it comic relief..as the movie is a little too serious...the hip hop in the movie also pissed me off, they actually thought it was kool to slip sum rap tracks in the background..well it made it annoying... some simple music woulda been good., overall the movie is good, hell even ma dad liked it..dont think..Jet li has made better crap then this..if u wana waste time n watch a movie..watch this....ight im out..peac
+Opinion of 'dialogue':
+	 'pretty-gory', 'not-compared', 'its', 'not-ai', 'really-fun', 'too-serious', 'its', 'annoying', 'good', 'good', 'even-ma'
+
+
+Sentence:
+	The classic childhood story written my Lewis Carroll, is given a brilliant boost with great animated characters that bring Alice's adventures to glorious life.
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	No one can act, the plot (was there a script?) is absurd, the music is dreadful, and the director must have been high much of the time.
+Opinion of 'dialogue':
+	 'absurd', 'dreadful', 'high'
+
+
+Sentence:
+	The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+Opinion of 'dialogue':
+	 'stupid', 'insipid', 'dull', 'not-waste'
+
+
+Sentence:
+	My wife says all of his movies are the same, and it breaks my heart everytime she says it...because in that blanket analysis, the analyst misses the incredible stories and crafty dialogue that takes place in the many Woody Allen movies that pretty much take place within the same template.
+Opinion of 'dialogue':
+	 'same', 'crafty', 'that', 'that'
+
+
+Sentence:
+	Set in the South, starting in the early 1950s, and as a Southerner myself I particularly enjoyed the authentic dialogue.
+Opinion of 'dialogue':
+	 'authentic'
+
+
+Sentence:
+	Furthermore, they fail to make enough sequential sense of the film's plot to really mean much to the film as a greater whole.
+Opinion of 'dialogue':
+	 'much'
+
+
+Sentence:
+	My only complaint is that, in a way, not much happens, but you relate and care about the characters too much to care.
+Opinion of 'dialogue':
+	 'not-happens'
+
+
+Sentence:
+	It is one of those ones that you keep watching because you think it may get better and it never does... stupid plot - too many holes and stupid ending.
+Opinion of 'dialogue':
+	 'that', 'better', 'stupid', 'not-does'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'dialogue':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	The jokes are as fresh as ever, and the characters just get funnier in this series.
+Opinion of 'dialogue':
+	 'as-fresh', 'funnier'
+
+
+Sentence:
+	He discovers a new talent (artist Christina Milian) and works his way through an assortment of characters that are more types and cliches than real characters.
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	Unfortunately for the non-science enthusiast, the screenplay dialogue is absolutely overrun with swift moving unexplained techno-jargon that may unintentionally frustrate those viewers to the point of disappointment as they find themselves getting more and more lost between plot lines.
+Opinion of 'dialogue':
+	 'that', 'more', 'more'
+
+
+Sentence:
+	If the plot were better it would be a film worth watching
+Opinion of 'dialogue':
+	 'better'
+
+
+Sentence:
+	The character work is very good and the plot gets more and more interesting as the movie goes on.
+Opinion of 'dialogue':
+	 'very-good', 'more-interesting'
+
+
+Sentence:
+	His nuances are great, yet there seems to be an overpowering sense of sadness in his characters.
+Opinion of 'dialogue':
+	 'great'
+
+
+Sentence:
+	"Videodrome" is certainly no exception: the DVD not only includes the unrated (uncut) version of the movie, but also includes well over an hour of supplimentary footage that makes understanding the plot far easier.
+Opinion of 'dialogue':
+	 'uncut', 'that', 'far-easier'
+
+
+Sentence:
+	So much was done right in the way of depicting the social mores and economic conditions of the early 1900's, that the viewer feels sympathy for the trials and tribulations of the characters; but humor is not left out.
+Opinion of 'dialogue':
+	 'much', 'not-left'
+
+
+Sentence:
+	The collectible booklet that's included provides plot summaries and quotes from the director and/or cast member(s).
+Opinion of 'dialogue':
+	 'that'
+
+
+Sentence:
+	Selection of
+locations, environments and characters is simply wonderful -- sure to
+keep the viewer engrossed, even though the dialogue is uncompromisingly
+British.
+Opinion of 'dialogue':
+	 'sure', 'simply-wonderful', 'British'
+
+
+Sentence:
+	None of the characters are believable in the roles they are portraying.
+Opinion of 'dialogue':
+	 'believable'
+
+
+Sentence:
+	The characters and the situations remind me of the short stories I would write in the sixth grade when I was around 12 years old, where all of the characters have a bunch of dumb, absurd eccentricities that anyone could come up with if they wanted to because you're wanting so badly to be inventive and unique but in hindsight they make you cringe and tear up all those old notebooks full of such irritating, inane nonsense.
+Opinion of 'dialogue':
+	 'old', 'that', 'unique', 'inventive'
+
+
+Sentence:
+	It's also a "rubber reality" film--those are defined partially through "shifting" realities, where we as an audience, usually along with at least some characters, don't know quite what was real, if anything.
+Opinion of 'dialogue':
+
+	 'not-know', 'real'
+
+
+Sentence:
+	By the end of movie you don't like any of the characters and you don't care what happens to them, even the ones that started out sympathetic and likable.
+Opinion of 'dialogue':
+	 'not-like', 'likable', 'sympathetic', 'not-care', 'that'
+_______________________________________
+plot sentences: 61
+sentences with word 'plot': 26
+correct: 18/26
+_______________________________________
+character sentences: 66
+sentences with word 'character': 40
+correct: 29/40
+_______________________________________
+cinematography appears: 59
+sentences with word 'cinematography': 4
+correct: 4/4
+_______________________________________
+dialogue sentences: 59
+sentences with word 'dialogue: 11
+correct: 6/11
